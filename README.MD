@@ -3,7 +3,7 @@
 ![Screenshot](https://i.piccy.info/i9/c466461aee534d39743c4f83d5699cb5/1627851597/93807/1437490/18198image.jpg)
 
 
-## Hello everyone, this is my second attempt at making a bot for games. This time, automatic fishing in the minecraft game. Go!
+### Hello everyone, this is my second attempt at making a bot for games. This time, automatic fishing in the minecraft game. Go!
 #
 
 *The bot is simple and unstable, it can sometimes work incorrectly.*
@@ -13,7 +13,7 @@ First, we are looking for a float, more precisely red in the range from <span st
 If the float is found, then everything is fine, we do nothing.
 If the float disappears from the screen *(under water)*, the bot will press the right mouse button after 1 second until the float appears again.
 
-### **Problems that may arise:**
+### Problems that may arise:**
 1) If a red color gets into the frame, the bot will react to it.
 2) If they start to beat us in the game or we turn away from the float
 3) If the brightness in the game is too low
