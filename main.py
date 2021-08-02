@@ -5,8 +5,8 @@ import mss
 import win32gui, win32con
 import vision, recording
 
-print("Starting after 15 sec!")
-pyautogui.sleep(15)
+print("Starting after 10 sec!")
+pyautogui.sleep(10)
 
 with mss.mss() as sct:
     # Part of the screen to capture
