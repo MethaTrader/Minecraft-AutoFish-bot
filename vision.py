@@ -24,7 +24,6 @@ def find_float(image):
 
 def draw_circle(image):
     global boxWeight,boxHeight
-    print(find_float(image))
     try: 
         (x_float,y_float) = find_float(image)[0][0]
         color = (0, 255, 255)
@@ -34,6 +33,6 @@ def draw_circle(image):
         return image 
     except:
         #print("Not Found")
-        #pyautogui.rightClick()
-        #pyautogui.sleep(1)
+        pyautogui.rightClick()
+        pyautogui.sleep(1)
         return image
