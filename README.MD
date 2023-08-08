@@ -1,7 +1,6 @@
 [![Python 2.7|3.6](https://img.shields.io/badge/Python-2.7%7C3.6-blue.svg)](https://www.python.org/) [![Open CV 4.5.3](https://img.shields.io/badge/OpenCV-4.5.3-brightgreen)](https://pypi.org/project/opencv-python/)
 
-![Screenshot](https://i.piccy.info/i9/c466461aee534d39743c4f83d5699cb5/1627851597/93807/1437490/18198image.jpg)
-
+![Image of m_fishbot_preview](https://beeimg.com/images/v59753061832.jpg)
 
 ### Hello everyone, this is my second attempt at making a bot for games. This time, automatic fishing in the minecraft game. Go!
 #
